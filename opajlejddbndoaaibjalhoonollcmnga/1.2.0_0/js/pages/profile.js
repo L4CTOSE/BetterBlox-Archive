@@ -1,0 +1,10 @@
+/*
+ * This file is part of the BetterBlox distribution.
+ * Copyright (c) 2023 cupiditys.
+ */
+
+"use strict"
+
+pages.profile = async (userId) => {
+    if (location.href.includes("inventory")) return;
+}

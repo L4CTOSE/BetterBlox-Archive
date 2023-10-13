@@ -1,0 +1,86 @@
+{
+   "allTime": {
+      "message": "Tout"
+   },
+   "allTimeName": {
+      "message": "(attention : cette fonctionnalité ne fonctionnera pas si votre langue roblox n'est pas l'anglais.) Option \"Tous\" dans les transactions"
+   },
+   "allTimeText": {
+      "message": "Ajoute une option \"Tous\" après l'année passée dans roblox.com/transactions."
+   },
+   "appearOfflineName": {
+      "message": "Apparaitre hors-ligne (Beta)"
+   },
+   "appearOfflineText": {
+      "message": "Vous permet de naviguer sur le site Web tout en restant \"Hors ligne\". Cela peut prendre 5 à 10 minutes pour postuler, et certaines autres extensions comme BTRoblox vous signaleront parfois à tort comme étant en ligne, lorsque vous êtes sur votre propre profil."
+   },
+   "appearanceText": {
+      "message": "Apparence"
+   },
+   "contactName": {
+      "message": "Contact"
+   },
+   "contactText": {
+      "message": "Des questions, des bogues ou des demandes de fonctionnalités ? https://forms.gle/u9eD8rEJjcWNbk94A or cupiditysxd@gmail.com"
+   },
+   "continueName": {
+      "message": "Amélioration de la section \"Continuer\" de la page d'accueil"
+   },
+   "continueText": {
+      "message": "Améliore la section Continuer sur la page d'accueil en ajoutant un historique de jeu infini (vous devez rejoindre des jeux pour qu'ils soient ajoutés)"
+   },
+   "developName": {
+      "message": "Page de développement améliorée"
+   },
+   "developText": {
+      "message": "Améliore la page de développement/place de marché des créateurs en ajoutant quelques fonctionnalités supplémentaires (par exemple, le mode sombre)"
+   },
+   "donateName": {
+      "message": "Soutenir le développement"
+   },
+   "donateText": {
+      "message": "Bien que toutes les fonctionnalités soient et seront toujours gratuites, vous pouvez soutenir le développement en laissant une bonne critique sur le Chrome Web Store."
+   },
+   "generalName": {
+      "message": "Général"
+   },
+   "liveStatsName": {
+      "message": "Statistiques de jeu en direct"
+   },
+   "liveStatsText": {
+      "message": "Met à jour les statistiques du jeu comme le jeu, les visites, les favoris et la dernière mise à jour sans avoir à actualiser."
+   },
+   "lockedGroupsName": {
+      "message": "Afficher les groupes verrouillés"
+   },
+   "lockedGroupsText": {
+      "message": "Permet de visualiser les groupes verrouillés, en accédant à un groupe qui est verrouillé. Parfois, un rechargement peut être nécessaire pour prendre effet (problème d'api roblox, sera corrigé ultérieurement). Le défilement des membres d'un rôle est actuellement désactivé. Le chargement des membres et des expériences du groupe peut prendre quelques secondes."
+   },
+   "multipleExtensionsName": {
+      "message": "Extensions multiples"
+   },
+   "multipleExtensionsText": {
+      "message": "L'utilisation de plusieurs extensions basées sur roblox peut causer des problèmes, la compatibilité n'est pas garantie."
+   },
+   "privateInventoriesName": {
+      "message": "Afficher les inventaires privés"
+   },
+   "privateInventoriesText": {
+      "message": "Vous permet d'afficher les inventaires qui sont normalement définis comme privés. Utilise certains points de terminaison de l'api roblox pour rassembler leur inventaire, puis l'enregistre dans une base de données externe pour un chargement plus rapide. Met également en cache les inventaires publics au cas où ils deviendraient privés. Cela n'affectera ni ne sauvegardera votre propre inventaire. Limiteds ne sont pas inclus."
+   },
+   "privateServersName": {
+      "message": "Meilleurs serveurs privés"
+   },
+   "privateServersText": {
+      "message": "Ajoute la possibilité de masquer les serveurs privés auxquels vous avez été invité."
+   },
+   "utilityName": {
+      "message": "Utilitaire"
+   },
+   "vanityName": {
+      "message": "URL personnalisées pour les profils"
+   },
+   "vanityText": {
+      "message": "Vous permet d'utiliser \"https://www.roblox.com/users/Nom d'utilisateur\" au lieu de la barre de recherche normale pour trouver rapidement des utilisateurs."
+   }
+}

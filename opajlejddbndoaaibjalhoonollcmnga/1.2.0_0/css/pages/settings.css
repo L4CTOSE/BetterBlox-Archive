@@ -1,0 +1,27 @@
+.content {
+    max-width: 970px !important;
+}
+
+#BetterBlox-settings .menu-vertical-container {
+    float: left;
+}
+
+.BetterBlox-settings-content {
+    float: left;
+    width: 100%;
+    padding-left: 12px;
+    max-width: 790px;
+}
+
+pre.text-description {
+    white-space: pre-wrap;
+}
+
+#btn-toggle {
+    float: right;
+}
+
+#BetterBlox-settings .rbx-divider {
+    margin-top: 10px;
+    margin-bottom: 8px;
+}

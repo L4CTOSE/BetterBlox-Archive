@@ -1,0 +1,86 @@
+{
+   "allTime": {
+      "message": "Todos"
+   },
+   "allTimeName": {
+      "message": "(Advertencia: esta función no funcionará si su idioma de roblox no es el inglés). Opción \"Todos\" en las transacciones"
+   },
+   "allTimeText": {
+      "message": "Agrega una opción \"Todos\" después del año pasado en roblox.com/transactions."
+   },
+   "appearOfflineName": {
+      "message": "Aparecer sin conexión (Beta)"
+   },
+   "appearOfflineText": {
+      "message": "Le permite navegar por el sitio web mientras permanece \"Fuera de línea\". Esto puede demorar de 5 a 10 minutos en aplicarse, y algunas otras extensiones, como BTRoblox, a veces lo informarán erróneamente como en línea, mientras está en su propio perfil."
+   },
+   "appearanceText": {
+      "message": "Apariencia"
+   },
+   "contactName": {
+      "message": "Contacto"
+   },
+   "contactText": {
+      "message": "¿Preguntas, insectos o peticiones de características? https://forms.gle/u9eD8rEJjcWNbk94A or cupiditysxd@gmail.com"
+   },
+   "continueName": {
+      "message": "Mejor sección de la página de inicio \"Continuar\""
+   },
+   "continueText": {
+      "message": "Mejora la sección de continuar en la página de inicio al agregar un historial de juegos infinito (debe unirse a los juegos para que se agreguen)"
+   },
+   "developName": {
+      "message": "Mejor página de desarrollo"
+   },
+   "developText": {
+      "message": "Mejora la página de desarrollo/mercado de creadores al agregar algunas características adicionales (p. ej., modo oscuro)"
+   },
+   "donateName": {
+      "message": "Desarrollo de soporte"
+   },
+   "donateText": {
+      "message": "Aunque todas las funciones son y siempre serán gratuitas, puede apoyar el desarrollo dejando una buena reseña en Chrome Web Store."
+   },
+   "generalName": {
+      "message": "Generalidades"
+   },
+   "liveStatsName": {
+      "message": "Estadísticas de juegos en vivo"
+   },
+   "liveStatsText": {
+      "message": "Actualice las estadísticas del juego, como jugar, vistas, favoritos y la última actualización sin tener que actualizar la página."
+   },
+   "lockedGroupsName": {
+      "message": "Ver grupos bloqueados (Beta)"
+   },
+   "lockedGroupsText": {
+      "message": "Le permite ver grupos bloqueados yendo a un grupo que está bloqueado. A veces puede requerir una recarga para que surta efecto (problema de API de Roblox, se solucionará más adelante). Actualmente, el desplazamiento por los miembros de un rol está deshabilitado. Los miembros del grupo y las experiencias pueden tardar unos segundos en cargarse."
+   },
+   "multipleExtensionsName": {
+      "message": "Múltiples extensiones"
+   },
+   "multipleExtensionsText": {
+      "message": "Utilizar múltiples extensiones basadas en roblox puede causar problemas, no se garantiza la compatibilidad."
+   },
+   "privateInventoriesName": {
+      "message": "Ver inventarios privados"
+   },
+   "privateInventoriesText": {
+      "message": "Le permite ver los inventarios que normalmente se configuran como privados. Utiliza algunos puntos finales de API de Roblox para recopilar su inventario y luego lo guarda en una base de datos externa para una carga más rápida. También almacena en caché los inventarios públicos en caso de que se vuelvan privados. Esto no afectará ni guardará su propio inventario. Los Limiteds no están incluidos."
+   },
+   "privateServersName": {
+      "message": "Mejores servidores privados"
+   },
+   "privateServersText": {
+      "message": "Agrega la capacidad de ocultar servidores privados a los que ha sido invitado."
+   },
+   "utilityName": {
+      "message": "Utilidad"
+   },
+   "vanityName": {
+      "message": "URL mnemónicas para perfiles"
+   },
+   "vanityText": {
+      "message": "Le permite usar \"https://www.roblox.com/users/nombre de usuario\" en lugar de la barra de búsqueda normal para encontrar usuarios rápidamente."
+   }
+}

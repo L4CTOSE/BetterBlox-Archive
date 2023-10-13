@@ -1,0 +1,86 @@
+{
+   "allTime": {
+      "message": "All Time"
+   },
+   "allTimeName": {
+      "message": "\"All time\" option in transactions"
+   },
+   "allTimeText": {
+      "message": "Adds an \"All time\" option after Past Year in roblox.com/transactions."
+   },
+   "appearOfflineName": {
+      "message": "Appear Offline (Beta)"
+   },
+   "appearOfflineText": {
+      "message": "Allows you to browse the website while remaining \"Offline\". This may take 5-10 minutes to apply, and some other extensions such as BTRoblox will sometimes misreport you as online, while on your own profile."
+   },
+   "appearanceText": {
+      "message": "Appearance"
+   },
+   "contactName": {
+      "message": "Contact"
+   },
+   "contactText": {
+      "message": "Questions, bugs, or feature requests? https://forms.gle/u9eD8rEJjcWNbk94A or cupiditysxd@gmail.com"
+   },
+   "continueName": {
+      "message": "Better \"Continue\" home page section"
+   },
+   "continueText": {
+      "message": "Improves the continue section on the home page by adding an infinite game history (you must join games for them to be added)"
+   },
+   "developName": {
+      "message": "Better Develop Page"
+   },
+   "developText": {
+      "message": "Improves developer/marketplace page by adding some extra features (e.g. dark mode)"
+   },
+   "donateName": {
+      "message": "Support Development"
+   },
+   "donateText": {
+      "message": "Although all features are and always will be free, you can support development by leaving a good review on the Chrome Web Store"
+   },
+   "generalName": {
+      "message": "General"
+   },
+   "liveStatsName": {
+      "message": "Live game stats"
+   },
+   "liveStatsText": {
+      "message": "Updates game stats like playing, visits, favorites, and last update without having to refresh."
+   },
+   "lockedGroupsName": {
+      "message": "View Locked Groups"
+   },
+   "lockedGroupsText": {
+      "message": "Allows you to view locked groups, by going to a group which is locked. Sometimes may require a reload to take effect (roblox api issue, will be fixed later). Scrolling through a role's members is currently disabled. Group's members and experiences may take a few seconds to load."
+   },
+   "multipleExtensionsName": {
+      "message": "Multiple Extensions"
+   },
+   "multipleExtensionsText": {
+      "message": "Using multiple roblox-based extensions may cause issues, compatibility is not guaranteed."
+   },
+   "privateInventoriesName": {
+      "message": "View Private Inventories"
+   },
+   "privateInventoriesText": {
+      "message": "Allows you to view inventories that are normally set private. Uses some roblox api endpoints to gather their inventory and then saves it to an external database for quicker loading. Also caches public inventories incase they go private. This won't affect or save your own inventory. Limiteds are not included."
+   },
+   "privateServersName": {
+      "message": "Better Private Servers"
+   },
+   "privateServersText": {
+      "message": "Adds the ability to hide Private Servers you've been invited to."
+   },
+   "utilityName": {
+      "message": "Utility"
+   },
+   "vanityName": {
+      "message": "Vanity URLs for profiles"
+   },
+   "vanityText": {
+      "message": "Allows you to use \"https://www.roblox.com/users/usernamehere\" instead of the normal search bar to find users quickly."
+   }
+}
